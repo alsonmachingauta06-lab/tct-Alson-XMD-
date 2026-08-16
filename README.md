@@ -3,8 +3,8 @@
 # <img src="https://t-ct.org/media/tct.png" alt="TCT Logo" width="80" />
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/TheCarlTech)
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbCTviw8qIzlACm6Cy0t)
-[![GitHub version](https://img.shields.io/github/v/release/i-tct/tct?label=Latest%20Release&style=for-the-badge)](https://github.com/i-tct/tct/releases/latest)
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbE2d5CLI8YZUdfNJV09) 
+[![GitHub version](https://img.shields.io/github/v/alsonmachingauta06-lab/Alson-XMD ?label=Latest%20Release&style=for-the-badge)](https://github.com/alsonmachingauta06-lab/Alson-XMD/releases/latest)
 
 <p><strong>A Fast WA Bot Built with Go</strong></p>
 
@@ -17,11 +17,11 @@
 ## 📢 Community
 
 <a href="https://t.me/TheCarlTech">Telegram Group</a> ·
-<a href="https://whatsapp.com/channel/0029VbCTviw8qIzlACm6Cy0t">WhatsApp Channel</a>
+<a href=""https://whatsapp.com/channel/0029VbE2d5CLI8YZUdfNJV09>WhatsApp Channel</a>
 
 ## 📦 Latest Release
 
-Grab the newest version from the <a href="https://github.com/i-tct/tct/releases/latest">GitHub Releases</a>.
+Grab the newest version from the <a href="https://github.com/alsonmachingauta06-lab/Alson-XMD/releases/latest">GitHub Releases</a>.
 
 </div>
 
@@ -143,7 +143,7 @@ It provides full control over your WhatsApp automation with:
 
 Before deploying, link your WA account.
 
-<a href="https://t-ct.org/pair/qr">
+<a href="https://tct.org/pair/qr">
   <img src="https://t-ct.org/media/getsessionid.png" alt="Get Session ID" width="320" />
 </a>
 
