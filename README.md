@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://t-ct.org/media/tct.png" alt="TCT Logo" width="80" />
+# <img src="https://t-ct.org/media/tct.png" alt="Alson XMD" width="80" />
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/TheCarlTech)
 [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbE2d5CLI8YZUdfNJV09) 
